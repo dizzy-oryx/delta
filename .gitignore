@@ -26,3 +26,5 @@ node_modules
 
 dist/
 
+# Ignore files added by those of us not yet accended to vim heaven
+.elixir_ls
